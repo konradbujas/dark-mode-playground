@@ -1,0 +1,23 @@
+:root {
+    --background-color: rgb(55, 56, 59);
+    --text-color: rgb(114, 107, 107);
+}
+
+
+
+
+body{
+    background-color: var(--background-color);
+    color: var(--text-color);
+}
+.mode--js{
+    position: absolute;
+      top: 12px;
+      right: 16px;
+      border: none;
+}
+    
+      
+.heading{
+    margin-top: 50px;
+}
